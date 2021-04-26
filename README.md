@@ -1,5 +1,7 @@
 # Spicetify-Orchis-Colours
 
+A Spicetify theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme).
+
 
 ## Screenshot
 
@@ -22,8 +24,9 @@ Download Fira Sans from [Google Fonts](https://fonts.google.com/specimen/Fira+Sa
  - Move the DarkGreen theme folder to your ~/.config/spicetify/Themes folder
  - Run the following in your Linux Terminal or Windows Powershell to apply the colours:
  
- <spicetify config current_theme DarkGreen>
- <spicetify apply>
+ ```spicetify config current_theme DarkGreen```
+ 
+ ```spicetify apply```
  
  
 
