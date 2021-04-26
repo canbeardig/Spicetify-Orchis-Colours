@@ -3,9 +3,11 @@
 A Spicetify theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme).
 
 
-## Screenshot
+## Screenshots
 
 ![screenshot](screenshot.png)
+
+![screenshot2](screenshot2.png)
 
 
 ### Fonts
