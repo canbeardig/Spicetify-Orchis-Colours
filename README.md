@@ -1,6 +1,6 @@
 # Spicetify-Orchis-Colours
 
-A Spicetify theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme).
+A [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme).
 
 
 ## Screenshots
