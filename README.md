@@ -15,14 +15,14 @@ Required fonts:
  - Fira Sans Medium
  - Fira Sans Bold
 
-Download Fira Sans from [Google Fonts](https://fonts.google.com/specimen/Fira+Sans) and install.
+Download Fira font family from [Google Fonts](https://fonts.google.com/specimen/Fira+Sans) and install.
 
 
 #### How to Apply
 
  - Follow the Spicetify installation guide from this [page](https://github.com/khanhas/spicetify-cli).
  - Move the DarkGreen theme folder to your ~/.config/spicetify/Themes folder
- - Run the following in your Linux Terminal or Windows Powershell to apply the colours:
+ - Run the following commands in your Linux Terminal or Windows PowerShell to apply the colours:
  
  ```spicetify config current_theme DarkGreen```
  
