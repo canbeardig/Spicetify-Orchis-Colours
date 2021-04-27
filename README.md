@@ -1,6 +1,6 @@
 # Spicetify-Orchis-Colours
 
-A [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme).
+A [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme). Part of the GNOME setup [I use](https://www.reddit.com/r/unixporn/comments/mw80cl/gnome_clean_and_green_orchis/).
 
 
 ## Screenshots
