@@ -1,6 +1,6 @@
 # Spicetify-Orchis-Colours
 
-A [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme). **Requires old Spotify UI (<v1.1.56) and Spicetify <v2.** New version is [here](https://github.com/canbeardig/Spicetify-Orchis-Colours-v2).
+A [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme). **Requires old Spotify UI (<v1.1.56) and Spicetify <v2.** Check the new version [here](https://github.com/canbeardig/Spicetify-Orchis-Colours-v2).
 
 <br/>
 
