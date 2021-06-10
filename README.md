@@ -1,6 +1,6 @@
 # Spicetify-Orchis-Colours
 
-A [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme).
+A [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by [Orchis theme](https://github.com/vinceliuice/Orchis-theme). **Requires old Spotify UI (<v1.1.56) and Spicetify <v2.** New version is [here](https://github.com/canbeardig/Spicetify-Orchis-Colours-v2).
 
 
 ## Screenshots
@@ -23,13 +23,10 @@ Download and install Fira font family from [Google Fonts](https://fonts.google.c
 #### How to Apply
 
  - Follow the Spicetify installation guide from [the page](https://github.com/khanhas/spicetify-cli).
- - Move the DarkGreen theme folder to your ~/.config/spicetify/Themes folder
+ - Move the DarkGreen theme folder to Linux: ```~/.config/spicetify/Themes```, Windows: ```%userprofile%\.spicetify\Themes\```, MacOS: ```~/spicetify_data/Themes```
  - Run the following commands in your Linux Terminal or Windows PowerShell to apply the colours:
  
  ```spicetify config current_theme DarkGreen```
  
  ```spicetify apply```
  
- 
-
-
